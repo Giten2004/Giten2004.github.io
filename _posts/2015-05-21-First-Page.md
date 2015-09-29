@@ -1,6 +1,8 @@
 ---
-title: This is my title
+title: This is my first page
 layout: post
+tags: Temp
+categories: Other
 ---
 
-Here is my page.
+Blogging Like a Hacker
